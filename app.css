@@ -73,6 +73,10 @@ button:active {
   border-color: #0044ff;
 }
 
+#finished-projects header {
+  background-color: #0044ff;
+}
+
 .projects h2 {
   margin: 0;
   color: white;
@@ -88,6 +92,7 @@ button:active {
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
   padding: 1rem;
   margin: 1rem;
+  background-color: white;
 }
 
 .projects li h2 {
